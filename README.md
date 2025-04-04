@@ -1,8 +1,8 @@
+<!--
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!--     <title>GitHub Profile</title> -->
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -16,3 +16,13 @@
 
 </body>
 </html>
+
+-->
+
+<div align=center>
+    <p align=left>Resume for YVS</p>
+    <p align=right>Telegram:    @hunoninf</p>
+    <p align=right>Email:    yvs-work@yandex.ru</p>
+</div>
+
+---
