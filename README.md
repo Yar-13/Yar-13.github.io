@@ -46,7 +46,7 @@
 ---
 
 <div align=center>
-    <img src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif?cid=ecf05e472qnld45zq2pzeegu0jz3ns3j6dhr1fcdqba12bpm&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="400">
+    <img src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif?cid=ecf05e472qnld45zq2pzeegu0jz3ns3j6dhr1fcdqba12bpm&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="400" />
 </div>
 
 ---
@@ -63,3 +63,17 @@
 
 ---
 
+### :hammer_and_wrench: Используемые технологии:
+
+<div>
+    <img  src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40" />
+    <img  src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" />
+    <img  src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" alt="kaggle" width="40" height="40" />
+    <img  src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40" />
+    <img  src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
+    <img  src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40" />
+    <img  src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
+    <img  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    <img  src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" />
+    <img  src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="sklearn" width="40" height="40" />
+</div>
