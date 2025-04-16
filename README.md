@@ -77,3 +77,14 @@
     <img  src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" />
     <img  src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="sklearn" width="40" height="40" />
 </div>
+
+---
+
+### :chart_with_upwards_trend: Цифры:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yar-13&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
+
+[![codewars](https://www.codewars.com/users/Yar-13/badges/large)](https://www.codewars.com/users/Yar-13)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/__YVS__)
+
