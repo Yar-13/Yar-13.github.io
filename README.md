@@ -82,7 +82,6 @@
 
 ### :chart_with_upwards_trend: Цифры:
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Yar-13&theme=dark&hide_border=true&locale=ru" alt="GitHub Streak" /></a>
 [![codewars](https://www.codewars.com/users/Yar-13/badges/large)](https://www.codewars.com/users/Yar-13)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/__YVS__)
