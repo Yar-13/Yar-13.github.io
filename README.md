@@ -39,8 +39,27 @@
 </div>
 
 <div align=center>
-    This is resume for YVS 
+    Резюме YVS 
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmR2NGt4Z2NvZWM2dDh5ZzJ4bHZyYWs2aW5vYW1xbjM1ZHBtM2c5aCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="15px" />
 </div>
 
 ---
+
+<div align=center>
+    <img src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif?cid=ecf05e472qnld45zq2pzeegu0jz3ns3j6dhr1fcdqba12bpm&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="400">
+</div>
+
+---
+
+### :globe_with_meridians: Краткая информация:
+
+Уверенный Data Science junior с практикой проектных работ более года.
+
+- :panda_face: Профессиональное владение языком программирования python и фреймворками.
+- :elephant: Знание языка запросов PostgreSQL.
+- :knot: Работа с удалёнными базами данных посрдеством Spark.
+- :bar_chart: Анализ и визуализация данных с помоьщю Pandas.
+- :robot: Машинное обучение с sklearn, CatBoost, LightGBM и pytorch.
+
+---
+
