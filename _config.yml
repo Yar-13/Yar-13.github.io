@@ -10,7 +10,7 @@ name: Синегрибов Ярослав Владимирович
 title: Junior Data Scientist
 email: yvs-work@yandex.ru
 # phone: 84950000000
-# website: 
+website: https://yar-13.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -39,7 +39,6 @@ additional_links:
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
 
-additional_links:
 - title: YAR2199978
   icon: fab fa-kaggle
   url: https://www.kaggle.com/yar2199978
