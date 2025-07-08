@@ -65,7 +65,7 @@ content:
       - layout: left
         title: Яндекс Практикум
         caption: 2024 - 2025
-        sub_title: Data Scientist plus\: Extended Program
+        sub_title: "Data Scientist plus: Extended Program"
         quote: >
           Яндекс Практикум — образование для качественных изменений в карьере и жизни!
         description: | # this will include new lines to allow paragraphs
