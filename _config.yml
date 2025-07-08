@@ -86,8 +86,8 @@ content:
       - layout: left
         title: Навыки
         # sub_title: Senior Network System Administrator
-        caption: |
-          Python, SQL, Git, PostgreSQL, Jupyter Notebook, Scikit-learn, matplotlib, pandas, Numpy, tensorflow, keras, Markdown, CatBoost, LightGBM, PySpark, deepseek
+        sub_title: |
+          Python, SQL, Git, PostgreSQL, Jupyter Notebook, Scikit-learn, matplotlib, pandas, Numpy, tensorflow, keras, Markdown, CatBoost, LightGBM, Res-Net, PySpark, deepseek
         link: https://github.com/Yar-13/
         link_text: github.com/Yar-13
         description: | # this will include new lines to allow paragraphs
@@ -98,6 +98,15 @@ content:
           - Проводил обработку и очистку табличных данных, временных рядов, наборов естественного языка и изображений;
           - Исследовал данные, визуализируя различные признаки и показывая закономерности;
           - Разрабатывал модели машинного обучения для классификации и прогнозирования;
+          - Применял интепретирование признаков обученной модели и элементы математической статистики;
+          - Взаимодействовал с базами данных посредством SQL запросов, используя в том числе оконные функции;
+          
+          Результаты моей деятельности:
+
+          - Разработал решение для [определения успешности стартапа](https://github.com/Yar-13/Kaggle_competition_StartupOperations);
+          - Повысил эффективность работы научной обсерватории за счёт [автоматического определеня температуры звезды](https://github.com/Yar-13/Predicting-the-temperature-of-a-star);
+          - Построил [модель для определения прибыльного регина добычи нефти](https://github.com/Yar-13/ML_GeoOilProb);
+          - Помог сделать процесс обработки металла более эффективным за счёт предсказания итоговой температуры сплава в ковше.
 
 
 
@@ -120,6 +129,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
+          ![](https://pictures.s3.yandex.net/resources/image_-_2024-12-04T131130.634_1733299906.png)
+
   - title: A Little More About Me
     layout: text
     content: |
@@ -137,7 +148,7 @@ footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: sproogen/resume-theme
+# remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
