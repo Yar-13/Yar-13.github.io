@@ -33,7 +33,7 @@ github_username:  Yar-13
 # Additional icon links
 additional_links:
 - title: inf0_hunter
-  icon: faи fa-telegram
+  icon: fab fa-telegram
   url: https://t.me/inf0_hunter
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -138,10 +138,8 @@ content:
   - title: Обо мне
     layout: list
     content:
-      - layout: top-middle
+      - layout: top-right
         quote: >
-          Мы привыкаем жить задолго до того, как привыкаем мыслить.
-          Не важно, откуда ты взялся и куда направляешься. Главное, продолжать катиться. Может, большего и не надо, может лучше и не будет.
           Думать - это прикольно!
         description: |
           Мой интерес к сфере анализа и изучения данных не случайный. Поиск зависимостей и неочевидных суждений, которые может скрывать в себе информация,- это путь к стабильному развитию.
