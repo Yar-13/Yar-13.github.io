@@ -6,14 +6,14 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Синегрибов Ярослав Владимирович
-title: Junior Data Scientist
+name: Синегрибов Ярослав
+title: Data Scientist
 email: yvs-work@yandex.ru
 # phone: 84950000000
 website: https://yar-13.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 # twitter_username: 
@@ -53,41 +53,31 @@ additional_links:
 # about_title: Эпиграф
 about_profile_image: images/photo.jpg
 about_content: | # this will include new lines to allow paragraphs
+  **Personal data**
+  
+  > Возраст: 21 год
+  >
+  > Гражданство: Российская Федерация
+  >
+  > Местоположение: Москва
+
   **Summary**
 
-  Начинающий Data Science  специалист.
-
-  Опыт более года.
-
-  Основные инструменты для работы:
-  - Python
-  - SQL
-
-  > Предпочитаю удалённый формат работы.
+  > Data Scientist с опытом в машинном обучении и анализе данных более 1 года. Умею находить закономерности в данных и превращать их в рабочие решения. Постоянно изучаю новые технологии и инструменты.
   >
-  > Зарплатные ожидания: 60 000 - 100 000 при полной занятости.
+  > Основные инструменты для работы:
+  >
+  > - Python (Scikit-learn, matplotlib, pandas, Numpy, tensorflow, keras)
+  >
+  > - SQL
+  >
+  > - Jupyter Notebook
+  >
+  > Ищу работу на полную или частичную занятость (20 - 40 часов в неделю) дата сайентистом. После получения оффера смогу приступить к работе в течение недели.
+  >
+  > Предпочитаю удалённый формат работы. Готов рассмотреть гибридный формат.
 
 content:
-  - title: Образование # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Яндекс Практикум
-        link: practicum.yandex.ru/data-scientist
-        link_text: practicum.yandex.ru
-        caption: 14.03.2024 — 30.06.2025
-        sub_title: "Data Scientist plus: Extended Program"
-        quote: >
-          Яндекс Практикум — образование для качественных изменений в карьере и жизни!
-        description: | # this will include new lines to allow paragraphs
-          Я прошёл полноценный официальный курс, в результате которого был приобретён необходимый теоретический объём знаний. Кроме того, за время обучения я разработал множество решений в виде учебной проектной деятельности.
-      - layout: left
-        title: Московский Политех
-        caption: 2024 - настоящее время
-        sub_title: "Большие и открытые данные"
-        description: |
-          Я получаю высшее образование в передовом Московском Университете. Полностью заочная форма обучения (онлайн) позволяет ставить в приоритет работу и личные проекты.
-
   - title: Навыки и опыт # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -116,7 +106,25 @@ content:
           - Построил [модель для определения прибыльного регина добычи нефти](https://github.com/Yar-13/ML_GeoOilProb);
           - Помог сделать процесс обработки металла более эффективным за счёт предсказания итоговой температуры сплава в ковше.
 
-
+  - title: Образование # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Яндекс Практикум
+        link: practicum.yandex.ru/data-scientist
+        link_text: practicum.yandex.ru
+        caption: 14.03.2024 — 30.06.2025
+        sub_title: "Data Scientist plus: Extended Program"
+        quote: >
+          Яндекс Практикум — образование для качественных изменений в карьере и жизни!
+        description: | # this will include new lines to allow paragraphs
+          Выполнил более 15 ML-проектов, среди которых 10 проектов по классическому ML (табличные данные), 2 проекта по разработке моделей Computer Vision, 2 проекта по NLP. Стек использованных технологий и инструментов: Python, SQL, PySpark, BERT, Res-Net, CatBoost, LightGBM, Tensorflow, Keras, Jupyter Notebook, Git.
+      - layout: left
+        title: Московский Политех
+        caption: 2024 - настоящее время
+        sub_title: "Большие и открытые данные"
+        description: |
+          Я получаю высшее образование в передовом Московском Университете. Полностью заочная форма обучения (онлайн) позволяет ставить в приоритет работу и личные проекты.
 
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -139,7 +147,7 @@ content:
 
   #         ![](https://pictures.s3.yandex.net/resources/image_-_2024-12-04T131130.634_1733299906.png)
 
-  - title: Обо мне
+  - title: Дополнительная информация
     layout: list
     content:
       - layout: top-right
@@ -148,11 +156,13 @@ content:
         description: |
           Мой интерес к сфере анализа и изучения данных не случайный. Поиск зависимостей и неочевидных суждений, которые может скрывать в себе информация,- это путь к стабильному развитию.
 
-          Изначально в IT я изучал область информационной безопасности и уже успел получить достаточное количество теоретических знаний, однако наука о данных захвтила моё внимание. Поэтому я целенаправленно отчислися из первого университета, в котром был специалитет "Компьютерная безопасность".
+          Изначально в IT я изучал область информационной безопасности и уже успел получить достаточное количество теоретических знаний (2 семестра специалитета "Компьютерная безопасность"), однако наука о данных захвтила моё внимание.
 
-          Теперь я учусь на заочном формате в университете по специальности. А, чтобы получить наиболее свежие знания, я  прошёл курс по Data Science.
+          Я учусь в университете по специальности (заочный формат). Чтобы быстро получить актуальные знания, я  прошёл курс по Data Science.
 
           Я постоянно стараюсь получать новую информацию, чтобы действовать эффективнее и всегда смотреть на несколько шагов вперёд.
+
+          > Занимаюсь активными видами спорта. Интересуюсь философией.
 
           ![](https://i.pinimg.com/736x/ba/4a/79/ba4a7952f7248e783c95b7ff43ee2771.jpg)
 
